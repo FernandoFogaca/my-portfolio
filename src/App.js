@@ -6,6 +6,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import './App.css';
 import Skills   from './components/Skills'
+import SoftSkills from './components/softSkills';
 function App() {
   return (
     <>
@@ -14,7 +15,8 @@ function App() {
       <About />
       <Projects />
       <Contact /> 
-       <Skills />  
+       <Skills /> 
+       <SoftSkills /> 
        
       <>
       
